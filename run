@@ -1,0 +1,28 @@
+
+  \{^_^}/ hi!
+
+  Loading db.json
+  Done
+
+  Resources
+  http://localhost:=/home
+  http://localhost:=/subcriptions
+  http://localhost:=/teams
+
+  Home
+  http://localhost:=
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+Some error occurred { Error: listen EACCES: permission denied =
+    at Server.setupListenHandle [as _listen2] (net.js:1262:19)
+    at listenInCluster (net.js:1327:12)
+    at Server.listen (net.js:1425:5)
+    at Function.listen (C:\Users\MuambaJ\AppData\Roaming\npm\node_modules\json-server\node_modules\express\lib\application.js:618:24)
+    at load.then.db (C:\Users\MuambaJ\AppData\Roaming\npm\node_modules\json-server\lib\cli\run.js:135:20)
+  code: 'EACCES',
+  errno: 'EACCES',
+  syscall: 'listen',
+  address: '=',
+  port: -1 }
